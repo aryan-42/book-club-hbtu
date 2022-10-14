@@ -3,3 +3,49 @@ body {
   font-family: 'Merriweather', serif;
   margin: 0;
 }
+
+h1 {
+  font-family: 'Montserrat, sans-serif';
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 900;
+}
+.row {
+  padding: 3rem 7rem 3rem;
+}
+
+#new {
+  background-color: #FFF5E4;
+}
+
+.ntext {
+  line-height: 1;
+   text-align: left;
+  font-size: 1rem;
+}
+
+.nbimg {
+  text-align: right;
+  height: auto;
+  width: 19rem;
+}
+
+#title {
+  background-color: #FFE3E1;
+}
+
+#join {
+  background-color: #FF9494;
+  color: #FEFE;
+}
+
+#cta {
+  background-color: #E3FDFD;
+}
+
+#footer {
+  background-color: #71C9CE;
+  color: white;
+  padding: 7% 15%;
+  text-align: center;
+}
